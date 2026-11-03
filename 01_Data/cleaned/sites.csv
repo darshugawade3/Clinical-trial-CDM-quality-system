@@ -1,0 +1,26 @@
+SITE_ID,SITE_NAME,COUNTRY,INVESTIGATOR_ID,SITE_STATUS,ACTIVATION_DATE
+SITE-001,Research Center 1,USA,INV-001,Active,2023-03-14
+SITE-002,Research Center 2,Germany,INV-002,Active,2023-03-13
+SITE-003,Research Center 3,Germany,INV-003,Active,2023-03-13
+SITE-004,Research Center 4,Germany,INV-004,Active,2023-03-27
+SITE-005,Research Center 5,India,INV-005,Active,2023-03-23
+SITE-006,Research Center 6,Philippines,INV-006,Active,2023-03-22
+SITE-007,Research Center 7,South Africa,INV-007,Active,2023-01-19
+SITE-008,Research Center 8,Brazil,INV-008,Active,2023-03-19
+SITE-009,Research Center 9,USA,INV-009,Active,2023-04-09
+SITE-010,Research Center 10,Mexico,INV-010,Active,2023-02-28
+SITE-011,Research Center 11,India,INV-011,Active,2023-03-14
+SITE-012,Research Center 12,South Africa,INV-012,Active,2023-01-26
+SITE-013,Research Center 13,Poland,INV-013,Active,2023-01-27
+SITE-014,Research Center 14,India,INV-014,Active,2023-04-14
+SITE-015,Research Center 15,Germany,INV-015,Active,2023-02-01
+SITE-016,Research Center 16,South Africa,INV-016,Active,2023-03-27
+SITE-017,Research Center 17,USA,INV-017,Active,2023-03-13
+SITE-018,Research Center 18,Philippines,INV-018,Active,2023-04-02
+SITE-019,Research Center 19,India,INV-019,Active,2023-03-09
+SITE-020,Research Center 20,Poland,INV-020,Active,2023-01-20
+SITE-021,Research Center 21,India,INV-021,Active,2023-01-16
+SITE-022,Research Center 22,South Africa,INV-022,Active,2023-02-21
+SITE-023,Research Center 23,India,INV-023,Active,2023-02-16
+SITE-024,Research Center 24,Germany,INV-024,Active,2023-03-27
+SITE-025,Research Center 25,Brazil,INV-025,Active,2023-03-11

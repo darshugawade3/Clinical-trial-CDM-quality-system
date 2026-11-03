@@ -1,0 +1,20 @@
+KPI,VALUE
+Total Subjects,5000.0
+Total Sites,25.0
+Total Visits,37855.0
+Total Records,295008.0
+Total Data Issues,3492.0
+Total Queries,3507.0
+Open Queries,807.0
+Closed Queries,2700.0
+Query Resolution Rate (%),76.99
+Average Query Resolution Time (days),10.17
+Median Query Resolution Time (days),8.0
+Data Completeness (%),99.8
+Data Accuracy (%),99.1
+Data Consistency (%),99.75
+Protocol Deviation Rate (%),8.0
+Duplicate Rate (%),1.03
+Missing Data Rate (%),1.4
+Critical Issue Count,47.0
+Overdue Query Count,1050.0

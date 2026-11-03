@@ -1,0 +1,401 @@
+DEVIATION_ID,SUBJECT_ID,SITE_ID,DEVIATION_TYPE,DEVIATION_DATE,SEVERITY,DESCRIPTION,STATUS
+DEV-00001,SUBJ-03324,SITE-024,Prohibited Medication Use,2024-04-10,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00002,SUBJ-00626,SITE-008,Informed Consent Timing,2024-11-07,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00003,SUBJ-03517,SITE-020,Prohibited Medication Use,2023-11-28,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00004,SUBJ-04292,SITE-011,Prohibited Medication Use,2025-02-19,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00005,SUBJ-00285,SITE-013,Missed Assessment,2024-11-25,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00006,SUBJ-02317,SITE-023,Inclusion/Exclusion Criteria Deviation,2023-07-19,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00007,SUBJ-02773,SITE-001,Lab Sample Mishandling,2024-03-26,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00008,SUBJ-00599,SITE-013,Inclusion/Exclusion Criteria Deviation,2023-08-15,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00009,SUBJ-01797,SITE-021,Prohibited Medication Use,2024-07-20,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00010,SUBJ-03965,SITE-018,Missed Visit Window,2024-10-01,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00011,SUBJ-03117,SITE-013,Dosing Error,2023-11-09,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00012,SUBJ-01933,SITE-016,Missed Assessment,2024-12-23,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00013,SUBJ-04626,SITE-012,Prohibited Medication Use,2023-11-06,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00014,SUBJ-03959,SITE-016,Inclusion/Exclusion Criteria Deviation,2024-03-02,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00015,SUBJ-01910,SITE-009,Lab Sample Mishandling,2023-06-14,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00016,SUBJ-00730,SITE-021,Prohibited Medication Use,2025-04-28,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00017,SUBJ-00253,SITE-016,Dosing Error,2024-02-11,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00018,SUBJ-00602,SITE-007,Informed Consent Timing,2024-02-03,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00019,SUBJ-01687,SITE-021,Prohibited Medication Use,2023-04-04,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00020,SUBJ-03345,SITE-021,Informed Consent Timing,2024-02-05,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00021,SUBJ-00314,SITE-007,Missed Assessment,2025-04-10,Critical,Deviation identified during routine monitoring visit review.,Open
+DEV-00022,SUBJ-00753,SITE-010,Prohibited Medication Use,2025-01-09,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00023,SUBJ-02962,SITE-021,Missed Visit Window,2024-06-24,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00024,SUBJ-01863,SITE-025,Prohibited Medication Use,2024-07-31,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00025,SUBJ-01024,SITE-019,Lab Sample Mishandling,2024-12-05,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00026,SUBJ-00388,SITE-018,Informed Consent Timing,2025-02-16,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00027,SUBJ-01241,SITE-013,Informed Consent Timing,2025-06-04,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00028,SUBJ-02392,SITE-009,Missed Assessment,2023-04-18,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00029,SUBJ-02915,SITE-010,Informed Consent Timing,2024-11-29,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00030,SUBJ-02227,SITE-009,Lab Sample Mishandling,2024-05-05,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00031,SUBJ-04808,SITE-020,Prohibited Medication Use,2024-09-03,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00032,SUBJ-04261,SITE-007,Informed Consent Timing,2025-07-13,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00033,SUBJ-01793,SITE-008,Missed Visit Window,2025-04-02,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00034,SUBJ-03214,SITE-016,Lab Sample Mishandling,2025-10-09,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00035,SUBJ-04957,SITE-022,Lab Sample Mishandling,2023-05-21,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00036,SUBJ-02262,SITE-021,Lab Sample Mishandling,2025-10-01,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00037,SUBJ-03196,SITE-007,Informed Consent Timing,2023-04-25,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00038,SUBJ-04401,SITE-010,Inclusion/Exclusion Criteria Deviation,2025-08-17,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00039,SUBJ-01037,SITE-013,Missed Visit Window,2023-10-09,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00040,SUBJ-02090,SITE-009,Dosing Error,2024-11-11,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00041,SUBJ-03743,SITE-016,Missed Assessment,2025-01-22,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00042,SUBJ-02339,SITE-021,Missed Visit Window,2024-08-10,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00043,SUBJ-04499,SITE-019,Informed Consent Timing,2025-07-03,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00044,SUBJ-02553,SITE-013,Missed Visit Window,2023-12-07,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00045,SUBJ-02624,SITE-013,Inclusion/Exclusion Criteria Deviation,2024-08-24,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00046,SUBJ-04759,SITE-005,Dosing Error,2024-12-26,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00047,SUBJ-04455,SITE-016,Inclusion/Exclusion Criteria Deviation,2025-01-11,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00048,SUBJ-04605,SITE-010,Missed Visit Window,2025-07-01,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00049,SUBJ-01787,SITE-025,Missed Assessment,2023-10-02,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00050,SUBJ-04912,SITE-010,Dosing Error,2024-07-28,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00051,SUBJ-03529,SITE-023,Missed Assessment,2025-07-16,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00052,SUBJ-02462,SITE-021,Inclusion/Exclusion Criteria Deviation,,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00053,SUBJ-03503,SITE-021,Missed Assessment,2025-08-01,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00054,SUBJ-02988,SITE-018,Missed Assessment,2024-05-10,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00055,SUBJ-04320,SITE-024,Informed Consent Timing,2023-08-05,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00056,SUBJ-02438,SITE-021,Missed Assessment,2025-06-26,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00057,SUBJ-03661,SITE-008,Inclusion/Exclusion Criteria Deviation,2023-06-28,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00058,SUBJ-02756,SITE-005,Inclusion/Exclusion Criteria Deviation,2024-05-06,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00059,SUBJ-04582,SITE-019,Dosing Error,2023-05-06,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00060,SUBJ-04577,SITE-022,Missed Visit Window,2024-09-27,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00061,SUBJ-04117,SITE-005,Dosing Error,2024-04-10,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00062,SUBJ-02234,SITE-018,Missed Visit Window,2023-05-26,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00063,SUBJ-00699,SITE-004,Missed Visit Window,2025-01-01,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00064,SUBJ-02364,SITE-010,Lab Sample Mishandling,2024-04-02,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00065,SUBJ-03297,SITE-013,Inclusion/Exclusion Criteria Deviation,2024-08-24,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00066,SUBJ-03103,SITE-013,Missed Visit Window,2024-08-18,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00067,SUBJ-03330,SITE-008,Missed Assessment,2023-09-11,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00068,SUBJ-02449,SITE-019,Informed Consent Timing,2024-03-27,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00069,SUBJ-04766,SITE-024,Missed Assessment,2023-07-13,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00070,SUBJ-00117,SITE-025,Dosing Error,2024-11-28,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00071,SUBJ-03457,SITE-021,Lab Sample Mishandling,2023-05-27,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00072,SUBJ-01292,SITE-007,Missed Visit Window,2023-07-01,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00073,SUBJ-00666,SITE-005,Dosing Error,2025-09-25,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00074,SUBJ-00164,SITE-010,Missed Visit Window,2024-03-28,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00075,SUBJ-04700,SITE-008,Missed Assessment,2024-10-20,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00076,SUBJ-03070,SITE-003,Informed Consent Timing,2025-04-02,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00077,SUBJ-04055,SITE-020,Informed Consent Timing,2024-06-29,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00078,SUBJ-04720,SITE-013,Lab Sample Mishandling,2024-04-19,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00079,SUBJ-02100,SITE-013,Dosing Error,2025-09-09,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00080,SUBJ-00313,SITE-012,Dosing Error,2025-02-11,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00081,SUBJ-01573,SITE-023,Missed Assessment,2023-09-10,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00082,SUBJ-01194,SITE-025,Missed Assessment,2024-11-24,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00083,SUBJ-02658,SITE-013,Missed Assessment,2025-05-31,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00084,SUBJ-04075,SITE-016,Prohibited Medication Use,2025-08-11,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00085,SUBJ-01868,SITE-001,Missed Visit Window,2023-08-16,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00086,SUBJ-00359,SITE-025,Missed Visit Window,2024-04-17,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00087,SUBJ-04595,SITE-004,Lab Sample Mishandling,2024-01-30,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00088,SUBJ-01598,SITE-018,Missed Assessment,,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00089,SUBJ-04144,SITE-018,Prohibited Medication Use,2023-08-03,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00090,SUBJ-02396,SITE-012,Prohibited Medication Use,2024-02-14,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00091,SUBJ-02609,SITE-021,Lab Sample Mishandling,2023-06-15,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00092,SUBJ-03032,SITE-017,Inclusion/Exclusion Criteria Deviation,2025-10-20,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00093,SUBJ-00033,SITE-003,Missed Assessment,2025-08-05,Critical,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00094,SUBJ-02099,SITE-016,Dosing Error,2024-05-05,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00095,SUBJ-04573,SITE-016,Missed Visit Window,2023-08-15,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00096,SUBJ-01340,SITE-001,Prohibited Medication Use,2025-09-16,Critical,Deviation identified during routine monitoring visit review.,Open
+DEV-00097,SUBJ-00974,SITE-020,Missed Assessment,2023-12-08,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00098,SUBJ-02763,SITE-010,Dosing Error,2024-09-15,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00099,SUBJ-01130,SITE-025,Lab Sample Mishandling,2025-08-29,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00100,SUBJ-02203,SITE-005,Missed Visit Window,2025-05-03,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00101,SUBJ-02602,SITE-004,Informed Consent Timing,2025-01-31,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00102,SUBJ-00607,SITE-013,Inclusion/Exclusion Criteria Deviation,2024-04-11,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00103,SUBJ-04773,SITE-003,Prohibited Medication Use,2023-12-23,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00104,SUBJ-03334,SITE-017,Missed Assessment,2024-11-03,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00105,SUBJ-02832,SITE-003,Missed Assessment,,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00106,SUBJ-02813,SITE-008,Informed Consent Timing,2024-06-06,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00107,SUBJ-02762,SITE-013,Lab Sample Mishandling,2024-05-05,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00108,SUBJ-03800,SITE-013,Lab Sample Mishandling,2024-10-20,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00109,SUBJ-01196,SITE-017,Prohibited Medication Use,2025-10-30,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00110,SUBJ-01764,SITE-018,Prohibited Medication Use,2024-11-23,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00111,SUBJ-03236,SITE-010,Missed Visit Window,2025-02-08,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00112,SUBJ-04415,SITE-017,Missed Visit Window,2024-01-13,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00113,SUBJ-00646,SITE-018,Prohibited Medication Use,2025-04-09,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00114,SUBJ-03816,SITE-007,Missed Assessment,2023-07-22,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00115,SUBJ-03857,SITE-013,Lab Sample Mishandling,2024-10-18,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00116,SUBJ-00686,SITE-010,Dosing Error,2024-02-28,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00117,SUBJ-04923,SITE-004,Dosing Error,2023-10-10,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00118,SUBJ-01333,SITE-009,Inclusion/Exclusion Criteria Deviation,2025-06-10,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00119,SUBJ-04049,SITE-008,Informed Consent Timing,2024-04-21,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00120,SUBJ-00063,SITE-009,Missed Visit Window,2025-05-01,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00121,SUBJ-02023,SITE-021,Dosing Error,2023-07-07,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00122,SUBJ-03179,SITE-013,Missed Visit Window,2025-04-05,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00123,SUBJ-04667,SITE-013,Dosing Error,2023-11-20,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00124,SUBJ-04187,SITE-013,Dosing Error,2025-05-09,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00125,SUBJ-04898,SITE-001,Dosing Error,2024-06-11,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00126,SUBJ-00774,SITE-023,Dosing Error,2024-08-03,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00127,SUBJ-03320,SITE-012,Informed Consent Timing,2023-07-13,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00128,SUBJ-04281,SITE-005,Dosing Error,2025-08-04,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00129,SUBJ-00803,SITE-003,Missed Assessment,2025-01-12,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00130,SUBJ-02212,SITE-016,Inclusion/Exclusion Criteria Deviation,2025-01-17,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00131,SUBJ-02743,SITE-023,Inclusion/Exclusion Criteria Deviation,2024-09-22,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00132,SUBJ-00224,SITE-012,Prohibited Medication Use,2024-03-22,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00133,SUBJ-04578,SITE-007,Lab Sample Mishandling,,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00134,SUBJ-01633,SITE-016,Missed Visit Window,2024-04-22,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00135,SUBJ-00612,SITE-018,Informed Consent Timing,2024-11-20,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00136,SUBJ-03712,SITE-013,Lab Sample Mishandling,2025-05-31,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00137,SUBJ-02529,SITE-021,Prohibited Medication Use,2023-11-26,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00138,SUBJ-02004,SITE-025,Inclusion/Exclusion Criteria Deviation,,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00139,SUBJ-04948,SITE-010,Informed Consent Timing,2023-11-05,Critical,Deviation identified during routine monitoring visit review.,Open
+DEV-00140,SUBJ-02538,SITE-025,Inclusion/Exclusion Criteria Deviation,2024-06-13,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00141,SUBJ-03651,SITE-016,Prohibited Medication Use,2024-09-25,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00142,SUBJ-03563,SITE-007,Dosing Error,2024-06-22,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00143,SUBJ-04844,SITE-009,Informed Consent Timing,2024-11-28,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00144,SUBJ-00195,SITE-018,Prohibited Medication Use,2023-07-10,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00145,SUBJ-02097,SITE-013,Prohibited Medication Use,2024-12-25,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00146,SUBJ-02674,SITE-003,Dosing Error,2024-12-17,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00147,SUBJ-02067,SITE-020,Dosing Error,2024-07-22,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00148,SUBJ-04012,SITE-010,Informed Consent Timing,2024-09-15,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00149,SUBJ-03761,SITE-011,Missed Visit Window,2024-04-24,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00150,SUBJ-00790,SITE-024,Lab Sample Mishandling,2025-06-21,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00151,SUBJ-03240,SITE-025,Inclusion/Exclusion Criteria Deviation,2024-01-23,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00152,SUBJ-01760,SITE-021,Inclusion/Exclusion Criteria Deviation,2024-11-21,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00153,SUBJ-04915,SITE-010,Informed Consent Timing,2023-09-29,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00154,SUBJ-01588,SITE-010,Missed Assessment,2025-03-16,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00155,SUBJ-02707,SITE-003,Lab Sample Mishandling,2023-09-17,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00156,SUBJ-04365,SITE-017,Missed Visit Window,2025-04-27,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00157,SUBJ-00739,SITE-025,Dosing Error,2023-07-02,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00158,SUBJ-00669,SITE-009,Lab Sample Mishandling,2025-10-20,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00159,SUBJ-01345,SITE-008,Missed Visit Window,2024-11-26,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00160,SUBJ-01864,SITE-016,Inclusion/Exclusion Criteria Deviation,2023-12-11,Critical,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00161,SUBJ-04431,SITE-018,Missed Assessment,2024-04-08,Critical,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00162,SUBJ-01496,SITE-025,Inclusion/Exclusion Criteria Deviation,2025-01-29,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00163,SUBJ-01259,SITE-014,Missed Assessment,2025-02-23,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00164,SUBJ-02566,SITE-016,Dosing Error,2023-08-28,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00165,SUBJ-00191,SITE-013,Prohibited Medication Use,2025-02-20,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00166,SUBJ-04621,SITE-005,Inclusion/Exclusion Criteria Deviation,2023-05-05,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00167,SUBJ-03708,SITE-017,Prohibited Medication Use,2023-10-29,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00168,SUBJ-02422,SITE-019,Prohibited Medication Use,2024-02-27,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00169,SUBJ-04014,SITE-001,Lab Sample Mishandling,2024-05-29,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00170,SUBJ-01441,SITE-023,Inclusion/Exclusion Criteria Deviation,2023-12-22,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00171,SUBJ-02544,SITE-011,Missed Assessment,2024-05-18,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00172,SUBJ-01837,SITE-020,Missed Visit Window,2023-09-03,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00173,SUBJ-03532,SITE-025,Missed Visit Window,2025-08-29,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00174,SUBJ-00540,SITE-010,Prohibited Medication Use,2024-12-29,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00175,SUBJ-02884,SITE-016,Lab Sample Mishandling,2023-08-07,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00176,SUBJ-01504,SITE-003,Prohibited Medication Use,2025-02-23,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00177,SUBJ-01834,SITE-010,Inclusion/Exclusion Criteria Deviation,2025-08-20,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00178,SUBJ-01327,SITE-018,Informed Consent Timing,2023-08-26,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00179,SUBJ-04189,SITE-005,Informed Consent Timing,2023-10-14,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00180,SUBJ-00206,SITE-013,Informed Consent Timing,2024-10-03,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00181,SUBJ-03807,SITE-018,Prohibited Medication Use,2024-07-04,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00182,SUBJ-03249,SITE-017,Informed Consent Timing,2025-05-27,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00183,SUBJ-03291,SITE-007,Missed Assessment,2023-08-20,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00184,SUBJ-02751,SITE-025,Lab Sample Mishandling,2023-07-31,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00185,SUBJ-02514,SITE-023,Informed Consent Timing,2024-10-13,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00186,SUBJ-03572,SITE-016,Dosing Error,2024-01-19,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00187,SUBJ-01516,SITE-025,Lab Sample Mishandling,2024-11-28,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00188,SUBJ-00678,SITE-016,Missed Assessment,2024-06-11,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00189,SUBJ-03893,SITE-025,Lab Sample Mishandling,2025-08-03,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00190,SUBJ-02430,SITE-004,Lab Sample Mishandling,2025-05-23,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00191,SUBJ-01290,SITE-013,Missed Visit Window,2024-01-31,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00192,SUBJ-04300,SITE-009,Dosing Error,2024-11-14,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00193,SUBJ-03813,SITE-016,Prohibited Medication Use,2023-07-04,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00194,SUBJ-01674,SITE-025,Missed Visit Window,2025-07-17,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00195,SUBJ-04993,SITE-025,Dosing Error,2024-04-12,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00196,SUBJ-03650,SITE-004,Lab Sample Mishandling,2025-03-05,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00197,SUBJ-04949,SITE-018,Inclusion/Exclusion Criteria Deviation,2023-11-08,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00198,SUBJ-03135,SITE-019,Missed Visit Window,2024-07-29,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00199,SUBJ-01472,SITE-004,Dosing Error,2024-04-14,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00200,SUBJ-01248,SITE-013,Missed Visit Window,2024-11-06,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00201,SUBJ-04644,SITE-019,Missed Assessment,2024-04-27,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00202,SUBJ-02423,SITE-022,Dosing Error,2023-10-04,Critical,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00203,SUBJ-02129,SITE-004,Missed Visit Window,2025-02-14,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00204,SUBJ-03198,SITE-025,Missed Assessment,2025-06-08,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00205,SUBJ-01401,SITE-016,Missed Visit Window,2024-06-01,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00206,SUBJ-00317,SITE-008,Missed Assessment,2024-02-24,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00207,SUBJ-01781,SITE-025,Lab Sample Mishandling,2024-06-18,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00208,SUBJ-02245,SITE-010,Missed Visit Window,2024-02-18,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00209,SUBJ-00152,SITE-007,Prohibited Medication Use,2024-06-05,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00210,SUBJ-04442,SITE-013,Inclusion/Exclusion Criteria Deviation,2023-10-30,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00211,SUBJ-02606,SITE-025,Dosing Error,2024-07-28,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00212,SUBJ-02491,SITE-004,Prohibited Medication Use,2024-12-10,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00213,SUBJ-03478,SITE-020,Missed Visit Window,2024-02-29,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00214,SUBJ-02779,SITE-018,Missed Visit Window,2025-06-15,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00215,SUBJ-03549,SITE-006,Missed Assessment,2025-08-25,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00216,SUBJ-02066,SITE-007,Prohibited Medication Use,2024-08-01,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00217,SUBJ-02224,SITE-013,Lab Sample Mishandling,2025-02-08,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00218,SUBJ-04693,SITE-013,Lab Sample Mishandling,2024-11-16,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00219,SUBJ-02672,SITE-016,Lab Sample Mishandling,2023-05-29,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00220,SUBJ-01235,SITE-008,Missed Assessment,2024-02-08,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00221,SUBJ-02160,SITE-005,Missed Visit Window,2024-08-30,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00222,SUBJ-03426,SITE-017,Lab Sample Mishandling,2023-12-08,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00223,SUBJ-01929,SITE-018,Lab Sample Mishandling,2024-12-02,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00224,SUBJ-03223,SITE-005,Prohibited Medication Use,2023-10-05,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00225,SUBJ-02117,SITE-025,Missed Assessment,2024-02-05,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00226,SUBJ-02808,SITE-020,Missed Assessment,2024-05-13,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00227,SUBJ-03337,SITE-005,Missed Visit Window,2023-09-11,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00228,SUBJ-02826,SITE-009,Dosing Error,2023-08-03,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00229,SUBJ-03588,SITE-013,Prohibited Medication Use,2023-11-11,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00230,SUBJ-04435,SITE-013,Prohibited Medication Use,2024-11-04,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00231,SUBJ-04403,SITE-001,Inclusion/Exclusion Criteria Deviation,2023-05-31,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00232,SUBJ-01506,SITE-013,Lab Sample Mishandling,2023-10-08,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00233,SUBJ-04453,SITE-003,Lab Sample Mishandling,2023-12-14,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00234,SUBJ-00108,SITE-003,Prohibited Medication Use,2023-08-24,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00235,SUBJ-02759,SITE-021,Lab Sample Mishandling,2024-07-02,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00236,SUBJ-04416,SITE-010,Dosing Error,2023-09-14,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00237,SUBJ-02522,SITE-009,Missed Assessment,2025-06-29,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00238,SUBJ-03313,SITE-013,Missed Assessment,2025-05-20,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00239,SUBJ-02959,SITE-017,Dosing Error,2024-07-23,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00240,SUBJ-04438,SITE-009,Inclusion/Exclusion Criteria Deviation,2024-01-28,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00241,SUBJ-03315,SITE-016,Inclusion/Exclusion Criteria Deviation,2025-02-25,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00242,SUBJ-03225,SITE-020,Dosing Error,2023-11-11,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00243,SUBJ-02549,SITE-016,Inclusion/Exclusion Criteria Deviation,2024-05-18,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00244,SUBJ-00277,SITE-018,Missed Visit Window,2025-03-12,Critical,Deviation identified during routine monitoring visit review.,Open
+DEV-00245,SUBJ-03749,SITE-004,Inclusion/Exclusion Criteria Deviation,2025-06-12,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00246,SUBJ-00832,SITE-004,Missed Assessment,2024-09-30,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00247,SUBJ-04399,SITE-013,Missed Visit Window,2023-09-22,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00248,SUBJ-00864,SITE-016,Lab Sample Mishandling,2025-01-12,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00249,SUBJ-00648,SITE-013,Dosing Error,2024-06-19,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00250,SUBJ-01792,SITE-010,Missed Visit Window,2025-07-04,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00251,SUBJ-04614,SITE-013,Missed Visit Window,2025-01-19,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00252,SUBJ-02569,SITE-013,Missed Visit Window,2023-04-21,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00253,SUBJ-04197,SITE-019,Inclusion/Exclusion Criteria Deviation,2024-07-08,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00254,SUBJ-00742,SITE-025,Lab Sample Mishandling,2023-09-30,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00255,SUBJ-03982,SITE-008,Missed Assessment,2025-04-05,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00256,SUBJ-02295,SITE-001,Missed Assessment,2025-06-07,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00257,SUBJ-04904,SITE-002,Prohibited Medication Use,2024-09-26,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00258,SUBJ-00624,SITE-013,Missed Assessment,2025-01-03,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00259,SUBJ-01584,SITE-010,Missed Visit Window,2025-02-01,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00260,SUBJ-01808,SITE-010,Lab Sample Mishandling,,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00261,SUBJ-00702,SITE-011,Lab Sample Mishandling,2023-06-21,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00262,SUBJ-04195,SITE-010,Lab Sample Mishandling,2025-03-18,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00263,SUBJ-02822,SITE-007,Inclusion/Exclusion Criteria Deviation,2023-12-22,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00264,SUBJ-01171,SITE-013,Informed Consent Timing,2024-09-24,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00265,SUBJ-04609,SITE-006,Dosing Error,2024-12-06,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00266,SUBJ-01417,SITE-012,Informed Consent Timing,,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00267,SUBJ-04509,SITE-017,Informed Consent Timing,2024-05-11,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00268,SUBJ-00247,SITE-020,Prohibited Medication Use,2023-06-12,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00269,SUBJ-02152,SITE-018,Dosing Error,2024-03-07,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00270,SUBJ-04981,SITE-018,Dosing Error,2025-08-17,Critical,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00271,SUBJ-04257,SITE-013,Prohibited Medication Use,2024-01-27,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00272,SUBJ-01395,SITE-003,Missed Assessment,2023-08-24,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00273,SUBJ-03565,SITE-013,Prohibited Medication Use,2023-08-03,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00274,SUBJ-03301,SITE-018,Dosing Error,2024-08-14,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00275,SUBJ-00928,SITE-005,Dosing Error,2023-10-18,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00276,SUBJ-02147,SITE-013,Inclusion/Exclusion Criteria Deviation,2025-02-28,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00277,SUBJ-04085,SITE-009,Missed Assessment,2024-07-29,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00278,SUBJ-00310,SITE-024,Missed Visit Window,2024-12-05,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00279,SUBJ-01433,SITE-005,Inclusion/Exclusion Criteria Deviation,2023-10-25,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00280,SUBJ-04560,SITE-022,Missed Visit Window,2024-09-23,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00281,SUBJ-04214,SITE-018,Informed Consent Timing,2025-04-10,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00282,SUBJ-03270,SITE-004,Prohibited Medication Use,2024-09-13,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00283,SUBJ-00919,SITE-010,Lab Sample Mishandling,2024-01-16,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00284,SUBJ-01634,SITE-005,Inclusion/Exclusion Criteria Deviation,2025-05-25,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00285,SUBJ-02157,SITE-013,Lab Sample Mishandling,2025-04-26,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00286,SUBJ-03902,SITE-016,Lab Sample Mishandling,2024-10-23,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00287,SUBJ-03655,SITE-009,Dosing Error,2023-10-03,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00288,SUBJ-01490,SITE-004,Missed Assessment,2023-06-20,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00289,SUBJ-01229,SITE-008,Inclusion/Exclusion Criteria Deviation,2025-03-20,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00290,SUBJ-01165,SITE-016,Prohibited Medication Use,2024-05-08,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00291,SUBJ-03697,SITE-003,Prohibited Medication Use,2023-12-24,Critical,Deviation identified during routine monitoring visit review.,Open
+DEV-00292,SUBJ-00505,SITE-012,Missed Assessment,2023-08-05,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00293,SUBJ-03582,SITE-016,Dosing Error,2023-06-07,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00294,SUBJ-01352,SITE-005,Missed Visit Window,2024-05-26,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00295,SUBJ-03268,SITE-025,Missed Visit Window,2025-03-13,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00296,SUBJ-04670,SITE-016,Prohibited Medication Use,2025-09-09,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00297,SUBJ-01562,SITE-020,Missed Assessment,2024-08-22,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00298,SUBJ-01591,SITE-018,Lab Sample Mishandling,2024-10-21,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00299,SUBJ-01629,SITE-001,Lab Sample Mishandling,2025-01-29,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00300,SUBJ-00419,SITE-013,Missed Visit Window,2024-10-07,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00301,SUBJ-04211,SITE-013,Missed Visit Window,2025-01-13,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00302,SUBJ-00436,SITE-018,Informed Consent Timing,2024-07-06,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00303,SUBJ-00205,SITE-025,Missed Visit Window,2025-03-11,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00304,SUBJ-04597,SITE-001,Missed Assessment,2024-09-29,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00305,SUBJ-03568,SITE-025,Missed Assessment,2025-07-21,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00306,SUBJ-03622,SITE-019,Prohibited Medication Use,2023-09-17,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00307,SUBJ-03359,SITE-001,Missed Visit Window,2024-04-10,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00308,SUBJ-02712,SITE-020,Lab Sample Mishandling,2024-03-08,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00309,SUBJ-00068,SITE-013,Dosing Error,2023-12-18,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00310,SUBJ-04010,SITE-013,Prohibited Medication Use,2025-06-02,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00311,SUBJ-04087,SITE-016,Inclusion/Exclusion Criteria Deviation,2024-01-02,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00312,SUBJ-04467,SITE-002,Missed Assessment,2024-06-14,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00313,SUBJ-04386,SITE-017,Inclusion/Exclusion Criteria Deviation,2025-01-09,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00314,SUBJ-04637,SITE-021,Inclusion/Exclusion Criteria Deviation,2023-12-16,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00315,SUBJ-04526,SITE-001,Missed Assessment,2024-04-12,Critical,Deviation identified during routine monitoring visit review.,Open
+DEV-00316,SUBJ-04177,SITE-008,Dosing Error,2024-02-21,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00317,SUBJ-02182,SITE-024,Inclusion/Exclusion Criteria Deviation,2023-10-06,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00318,SUBJ-02736,SITE-016,Informed Consent Timing,2023-10-25,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00319,SUBJ-00498,SITE-025,Dosing Error,2025-08-09,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00320,SUBJ-04649,SITE-017,Prohibited Medication Use,2024-07-24,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00321,SUBJ-03992,SITE-024,Inclusion/Exclusion Criteria Deviation,2024-06-17,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00322,SUBJ-02968,SITE-001,Inclusion/Exclusion Criteria Deviation,2024-07-31,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00323,SUBJ-02745,SITE-009,Lab Sample Mishandling,2024-12-14,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00324,SUBJ-03606,SITE-010,Inclusion/Exclusion Criteria Deviation,2024-01-19,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00325,SUBJ-01094,SITE-008,Informed Consent Timing,2025-01-25,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00326,SUBJ-01362,SITE-013,Lab Sample Mishandling,2024-02-06,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00327,SUBJ-04134,SITE-010,Missed Visit Window,2025-03-19,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00328,SUBJ-02088,SITE-001,Prohibited Medication Use,2024-09-18,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00329,SUBJ-04724,SITE-025,Missed Assessment,2024-01-18,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00330,SUBJ-04358,SITE-017,Prohibited Medication Use,2025-09-05,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00331,SUBJ-01844,SITE-001,Missed Visit Window,2024-08-21,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00332,SUBJ-02793,SITE-010,Inclusion/Exclusion Criteria Deviation,2025-09-04,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00333,SUBJ-00731,SITE-005,Dosing Error,2025-04-02,Critical,Deviation identified during routine monitoring visit review.,Open
+DEV-00334,SUBJ-04238,SITE-005,Missed Visit Window,2023-08-28,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00335,SUBJ-01812,SITE-011,Prohibited Medication Use,2025-08-25,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00336,SUBJ-03264,SITE-021,Prohibited Medication Use,,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00337,SUBJ-02125,SITE-025,Lab Sample Mishandling,2023-09-11,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00338,SUBJ-04477,SITE-013,Missed Visit Window,2025-06-03,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00339,SUBJ-02119,SITE-003,Prohibited Medication Use,2025-06-19,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00340,SUBJ-00957,SITE-021,Prohibited Medication Use,2023-12-10,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00341,SUBJ-03138,SITE-016,Inclusion/Exclusion Criteria Deviation,2023-09-24,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00342,SUBJ-04960,SITE-008,Dosing Error,2024-06-15,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00343,SUBJ-04136,SITE-016,Lab Sample Mishandling,2024-04-17,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00344,SUBJ-04842,SITE-013,Prohibited Medication Use,2023-07-26,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00345,SUBJ-04558,SITE-018,Inclusion/Exclusion Criteria Deviation,2024-11-09,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00346,SUBJ-03895,SITE-010,Prohibited Medication Use,2024-02-25,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00347,SUBJ-03548,SITE-013,Dosing Error,2025-03-13,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00348,SUBJ-02527,SITE-005,Missed Assessment,2023-05-17,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00349,SUBJ-00562,SITE-010,Dosing Error,2024-07-19,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00350,SUBJ-00683,SITE-003,Missed Visit Window,2024-06-27,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00351,SUBJ-00527,SITE-025,Inclusion/Exclusion Criteria Deviation,2023-10-30,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00352,SUBJ-01541,SITE-012,Missed Visit Window,2025-01-27,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00353,SUBJ-02741,SITE-016,Informed Consent Timing,2024-10-31,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00354,SUBJ-04295,SITE-016,Informed Consent Timing,2024-07-13,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00355,SUBJ-04252,SITE-009,Missed Assessment,2025-04-14,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00356,SUBJ-02363,SITE-018,Inclusion/Exclusion Criteria Deviation,2024-06-12,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00357,SUBJ-00266,SITE-016,Prohibited Medication Use,2024-06-08,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00358,SUBJ-01852,SITE-021,Prohibited Medication Use,2023-05-12,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00359,SUBJ-02030,SITE-011,Lab Sample Mishandling,2025-10-10,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00360,SUBJ-00039,SITE-008,Lab Sample Mishandling,2023-07-16,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00361,SUBJ-02834,SITE-009,Lab Sample Mishandling,2025-03-22,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00362,SUBJ-01482,SITE-023,Dosing Error,2025-07-14,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00363,SUBJ-00075,SITE-018,Prohibited Medication Use,2024-07-04,Major,Deviation identified during routine monitoring visit review.,Open
+DEV-00364,SUBJ-02964,SITE-025,Dosing Error,2023-11-28,Critical,Deviation identified during routine monitoring visit review.,Closed
+DEV-00365,SUBJ-00043,SITE-025,Informed Consent Timing,2025-04-11,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00366,SUBJ-03242,SITE-011,Missed Visit Window,2023-09-18,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00367,SUBJ-03187,SITE-007,Prohibited Medication Use,2025-05-03,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00368,SUBJ-01856,SITE-012,Missed Visit Window,2024-02-16,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00369,SUBJ-00968,SITE-003,Prohibited Medication Use,2023-06-19,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00370,SUBJ-00667,SITE-005,Inclusion/Exclusion Criteria Deviation,2024-04-22,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00371,SUBJ-01540,SITE-005,Lab Sample Mishandling,2024-10-18,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00372,SUBJ-03686,SITE-008,Missed Visit Window,2024-02-12,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00373,SUBJ-01502,SITE-018,Dosing Error,2025-01-29,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00374,SUBJ-00056,SITE-013,Missed Visit Window,2024-05-23,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00375,SUBJ-04540,SITE-002,Missed Assessment,2025-01-29,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00376,SUBJ-01701,SITE-008,Dosing Error,2024-10-21,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00377,SUBJ-03546,SITE-007,Lab Sample Mishandling,2024-09-06,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00378,SUBJ-03575,SITE-013,Inclusion/Exclusion Criteria Deviation,2024-11-15,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00379,SUBJ-03284,SITE-003,Lab Sample Mishandling,2025-01-25,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00380,SUBJ-00487,SITE-022,Informed Consent Timing,2025-07-25,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00381,SUBJ-00751,SITE-003,Missed Assessment,2024-05-19,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00382,SUBJ-02758,SITE-007,Informed Consent Timing,2025-03-09,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00383,SUBJ-04482,SITE-008,Missed Visit Window,2025-02-20,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00384,SUBJ-00924,SITE-003,Missed Assessment,2024-09-30,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00385,SUBJ-00396,SITE-025,Inclusion/Exclusion Criteria Deviation,2024-10-21,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00386,SUBJ-02781,SITE-010,Prohibited Medication Use,2024-07-03,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00387,SUBJ-03463,SITE-013,Informed Consent Timing,2025-05-28,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00388,SUBJ-04193,SITE-023,Missed Assessment,2024-11-29,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00389,SUBJ-03238,SITE-010,Missed Visit Window,2025-07-01,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00390,SUBJ-02819,SITE-017,Dosing Error,2025-06-19,Major,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00391,SUBJ-00724,SITE-005,Missed Visit Window,2023-07-03,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00392,SUBJ-02641,SITE-010,Missed Visit Window,2025-05-03,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00393,SUBJ-03243,SITE-024,Prohibited Medication Use,2023-09-11,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00394,SUBJ-00677,SITE-009,Informed Consent Timing,2024-08-18,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00395,SUBJ-01750,SITE-016,Dosing Error,2024-12-16,Minor,Deviation identified during routine monitoring visit review.,Open
+DEV-00396,SUBJ-04444,SITE-017,Prohibited Medication Use,2025-05-28,Minor,Deviation identified during routine monitoring visit review.,Under Review
+DEV-00397,SUBJ-03350,SITE-009,Informed Consent Timing,2024-02-01,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00398,SUBJ-00614,SITE-023,Missed Assessment,2024-01-16,Major,Deviation identified during routine monitoring visit review.,Closed
+DEV-00399,SUBJ-04251,SITE-018,Missed Assessment,2025-02-05,Minor,Deviation identified during routine monitoring visit review.,Closed
+DEV-00400,SUBJ-02928,SITE-021,Lab Sample Mishandling,2024-02-17,Minor,Deviation identified during routine monitoring visit review.,Under Review

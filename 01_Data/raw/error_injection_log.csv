@@ -1,0 +1,1101 @@
+TABLE,RECORD_ID,ERROR_TYPE,DESCRIPTION
+SUBJECTS,SUBJ-00002,Error Type: Consistency,Randomization date recorded before screening date
+SUBJECTS,SUBJ-00280,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-00293,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-00416,Error Type 1: Missing Required Value,Required field AGE left null
+SUBJECTS,SUBJ-00430,Error Type 7: Impossible Age,"Age recorded as 145, outside plausible human range"
+SUBJECTS,SUBJ-00441,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-00602,Error Type 11: Invalid Treatment Assignment,Treatment arm value not in approved randomization list
+SUBJECTS,SUBJ-00954,Error Type 1: Missing Required Value,Required field SEX left null
+SUBJECTS,SUBJ-01024,Error Type 7: Impossible Age,"Age recorded as -5, outside plausible human range"
+SUBJECTS,SUBJ-01042,Error Type: Consistency,Randomization date recorded before screening date
+SUBJECTS,SUBJ-01082,Error Type 1: Missing Required Value,Required field SEX left null
+SUBJECTS,SUBJ-01258,Error Type: Consistency,Randomization date recorded before screening date
+SUBJECTS,SUBJ-01281,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-01330,Error Type 7: Impossible Age,"Age recorded as 129, outside plausible human range"
+SUBJECTS,SUBJ-01388,Error Type 1: Missing Required Value,Required field SEX left null
+SUBJECTS,SUBJ-01497,Error Type 7: Impossible Age,"Age recorded as -5, outside plausible human range"
+SUBJECTS,SUBJ-01539,Error Type 7: Impossible Age,"Age recorded as 3, outside plausible human range"
+SUBJECTS,SUBJ-01569,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-01779,Error Type 7: Impossible Age,"Age recorded as 145, outside plausible human range"
+SUBJECTS,SUBJ-01916,Error Type 1: Missing Required Value,Required field AGE left null
+SUBJECTS,SUBJ-02069,Error Type 7: Impossible Age,"Age recorded as 145, outside plausible human range"
+SUBJECTS,SUBJ-02081,Error Type 11: Invalid Treatment Assignment,Treatment arm value not in approved randomization list
+SUBJECTS,SUBJ-02186,Error Type 1: Missing Required Value,Required field AGE left null
+SUBJECTS,SUBJ-02209,Error Type 1: Missing Required Value,Required field SEX left null
+SUBJECTS,SUBJ-02223,Error Type 7: Impossible Age,"Age recorded as -5, outside plausible human range"
+SUBJECTS,SUBJ-02265,Error Type 1: Missing Required Value,Required field SEX left null
+SUBJECTS,SUBJ-02281,Error Type: Consistency,Randomization date recorded before screening date
+SUBJECTS,SUBJ-02331,Error Type 1: Missing Required Value,Required field AGE left null
+SUBJECTS,SUBJ-02363,Error Type: Consistency,Randomization date recorded before screening date
+SUBJECTS,SUBJ-02559,Error Type 11: Invalid Treatment Assignment,Treatment arm value not in approved randomization list
+SUBJECTS,SUBJ-02634,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-02643,Error Type 11: Invalid Treatment Assignment,Treatment arm value not in approved randomization list
+SUBJECTS,SUBJ-02692,Error Type 1: Missing Required Value,Required field TREATMENT_ARM left null
+SUBJECTS,SUBJ-02716,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-02722,Error Type 1: Missing Required Value,Required field AGE left null
+SUBJECTS,SUBJ-02766,Error Type 7: Impossible Age,"Age recorded as 145, outside plausible human range"
+SUBJECTS,SUBJ-02791,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-02818,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-02823,Error Type 11: Invalid Treatment Assignment,Treatment arm value not in approved randomization list
+SUBJECTS,SUBJ-02855,Error Type 1: Missing Required Value,Required field TREATMENT_ARM left null
+SUBJECTS,SUBJ-02893,Error Type 7: Impossible Age,"Age recorded as 145, outside plausible human range"
+SUBJECTS,SUBJ-02970,Error Type: Consistency,Randomization date recorded before screening date
+SUBJECTS,SUBJ-03046,Error Type 1: Missing Required Value,Required field AGE left null
+SUBJECTS,SUBJ-03165,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-03198,Error Type 7: Impossible Age,"Age recorded as 129, outside plausible human range"
+SUBJECTS,SUBJ-03240,Error Type 1: Missing Required Value,Required field AGE left null
+SUBJECTS,SUBJ-03354,Error Type 1: Missing Required Value,Required field SEX left null
+SUBJECTS,SUBJ-03433,Error Type 1: Missing Required Value,Required field SEX left null
+SUBJECTS,SUBJ-03486,Error Type 7: Impossible Age,"Age recorded as 129, outside plausible human range"
+SUBJECTS,SUBJ-03515,Error Type 7: Impossible Age,"Age recorded as 3, outside plausible human range"
+SUBJECTS,SUBJ-03515,Error Type 1: Missing Required Value,Required field SEX left null
+SUBJECTS,SUBJ-03562,Error Type 1: Missing Required Value,Required field TREATMENT_ARM left null
+SUBJECTS,SUBJ-03575,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-03580,Error Type 1: Missing Required Value,Required field TREATMENT_ARM left null
+SUBJECTS,SUBJ-03607,Error Type 11: Invalid Treatment Assignment,Treatment arm value not in approved randomization list
+SUBJECTS,SUBJ-03702,Error Type 7: Impossible Age,"Age recorded as 145, outside plausible human range"
+SUBJECTS,SUBJ-03858,Error Type: Consistency,Randomization date recorded before screening date
+SUBJECTS,SUBJ-04009,Error Type: Consistency,Randomization date recorded before screening date
+SUBJECTS,SUBJ-04105,Error Type 1: Missing Required Value,Required field AGE left null
+SUBJECTS,SUBJ-04136,Error Type 7: Impossible Age,"Age recorded as 129, outside plausible human range"
+SUBJECTS,SUBJ-04143,Error Type 1: Missing Required Value,Required field TREATMENT_ARM left null
+SUBJECTS,SUBJ-04259,Error Type 1: Missing Required Value,Required field SEX left null
+SUBJECTS,SUBJ-04342,Error Type 1: Missing Required Value,Required field AGE left null
+SUBJECTS,SUBJ-04567,Error Type 1: Missing Required Value,Required field TREATMENT_ARM left null
+SUBJECTS,SUBJ-04700,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-04814,Error Type 1: Missing Required Value,Required field TREATMENT_ARM left null
+SUBJECTS,SUBJ-04822,Error Type 1: Missing Required Value,Required field WEIGHT_KG left null
+SUBJECTS,SUBJ-04826,Error Type 1: Missing Required Value,Required field TREATMENT_ARM left null
+SUBJECTS,SUBJ-04832,Error Type 1: Missing Required Value,Required field TREATMENT_ARM left null
+SUBJECTS,SUBJ-04947,Error Type: Consistency,Randomization date recorded before screening date
+SUBJECTS,SUBJ-04974,Error Type: Consistency,Randomization date recorded before screening date
+SUBJECTS,SUBJ-00727,Error Type 4: Duplicate Subject,Subject record duplicated in source data
+SUBJECTS,SUBJ-01123,Error Type 4: Duplicate Subject,Subject record duplicated in source data
+SUBJECTS,SUBJ-02372,Error Type 4: Duplicate Subject,Subject record duplicated in source data
+SUBJECTS,SUBJ-02700,Error Type 4: Duplicate Subject,Subject record duplicated in source data
+SUBJECTS,SUBJ-02938,Error Type 4: Duplicate Subject,Subject record duplicated in source data
+SUBJECTS,SUBJ-04224,Error Type 4: Duplicate Subject,Subject record duplicated in source data
+SUBJECTS,SUBJ-04348,Error Type 4: Duplicate Subject,Subject record duplicated in source data
+SUBJECTS,SUBJ-04389,Error Type 4: Duplicate Subject,Subject record duplicated in source data
+VISITS,SUBJ-00028-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00028-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00151-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00151-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00157-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00157-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00326-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00326-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00330-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00330-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00424-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00424-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00445-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00445-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00498-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00502-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00502-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00538-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00538-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00573-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00573-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00605-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00605-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00643-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00643-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00715-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00715-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00944-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-00944-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01039-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01039-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01040-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01079-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01079-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01161-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01161-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01178-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01178-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01250-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01250-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01314-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01314-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01319-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01319-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01409-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01409-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01607-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01607-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01708-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01708-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01840-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-01840-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02175-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02175-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02201-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02201-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02241-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02241-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02255-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02255-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02310-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02310-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02315-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02315-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02449-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02449-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02536-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02536-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02539-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02539-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02626-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02626-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02636-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02636-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02973-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-02973-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03078-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03078-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03086-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03086-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03190-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03190-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03372-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03372-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03494-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03494-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03669-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03669-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03858-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03858-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03931-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03931-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03933-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03933-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03944-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03944-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03996-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-03996-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04093-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04093-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04172-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04172-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04226-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04226-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04408-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04408-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04470-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04470-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04513-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04513-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04576-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04576-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04744-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04744-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04842-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04842-Week 8,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+VISITS,SUBJ-04937-Week 4,Error Type 3: Visit Outside Allowed Window,Actual visit date exceeds +/-5 day protocol window
+LAB_RESULTS,SUBJ-00076-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00076-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00076-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00076-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00076-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00076-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00076-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00096-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00096-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00096-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00096-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00096-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00096-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00096-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00111-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00111-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00111-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00111-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00111-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00112-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00112-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00112-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00112-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00124-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00124-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00124-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00124-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00138-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00138-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00138-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00138-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00138-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00138-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00256-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00256-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00256-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00256-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00275-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00275-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00275-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00275-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00283-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00283-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00283-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00283-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00283-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00306-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00306-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00306-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00306-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00306-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00306-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00306-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00380-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00380-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00380-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00380-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00381-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00381-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00381-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00381-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00381-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00381-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00381-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00381-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00457-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00457-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00457-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00457-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00457-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00457-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00457-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00457-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00467-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00467-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00467-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00467-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00467-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00467-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00467-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00480-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00480-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00480-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00480-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00488-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00488-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00488-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00488-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00521-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00521-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00521-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00521-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00521-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00521-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00521-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00521-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00557-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00557-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00557-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00557-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00557-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00557-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00573-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00573-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00573-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00573-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00573-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00573-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00573-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00573-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00576-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00576-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00576-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00576-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00576-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00576-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00576-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00638-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00638-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00638-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00638-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00638-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00638-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00638-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00638-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00674-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00674-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00674-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00674-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00674-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00674-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00685-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00685-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00685-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00685-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00685-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00685-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00689-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00689-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00689-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00689-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00689-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00689-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00689-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00735-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00735-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00735-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00735-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00735-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00735-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00735-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00735-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00760-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00760-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00760-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00760-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00760-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00770-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00770-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00770-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00770-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00770-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00770-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00814-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00814-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00814-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00814-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00831-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00831-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00831-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00831-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00831-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00831-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00831-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00831-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00841-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00841-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00841-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00841-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00863-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00863-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00863-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00863-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00863-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00872-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00872-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00872-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00872-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00890-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00890-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00890-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00890-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00890-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00890-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00901-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00901-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00901-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00901-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00901-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00901-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00901-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00901-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00943-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00943-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00943-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00943-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00943-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00943-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00962-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00962-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00962-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00962-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00962-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-00962-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00978-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-00978-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-00978-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-00978-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-00978-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-00978-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-00978-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-00978-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01000-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01000-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01000-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01000-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01000-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01056-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01056-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01056-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01056-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01056-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01056-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01060-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01060-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01060-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01060-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01156-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01156-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01156-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01156-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01156-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01156-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01156-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01183-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01183-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01183-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01183-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01186-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01186-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01186-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01186-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01186-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01186-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01186-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01186-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01247-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01247-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01247-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01247-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01348-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01348-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01348-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01348-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01348-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01348-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01348-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01375-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01375-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01375-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01375-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01375-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01375-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01398-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01398-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01398-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01398-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01398-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01442-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01442-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01442-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01442-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01442-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01442-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01442-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01442-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01562-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01562-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01562-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01562-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01562-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01562-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01562-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01698-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01698-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01698-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01698-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01698-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01698-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01703-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01703-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01703-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01703-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01703-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01703-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01703-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01764-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01764-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01764-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01764-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01764-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01764-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01764-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01766-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01766-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01766-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01766-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01766-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01769-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01769-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01769-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01769-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01826-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01826-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01826-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01826-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01858-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01858-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01858-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01858-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01868-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01868-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01868-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01868-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01868-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01868-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01868-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01868-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01875-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01875-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01875-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01875-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01875-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01875-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01875-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01887-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01887-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01887-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01887-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01887-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01887-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01933-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01933-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01933-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01933-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01972-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01972-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01972-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-01972-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-01972-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01972-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01972-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01972-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01992-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01992-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-01992-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01992-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-01992-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01992-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01997-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-01997-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-01997-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-01997-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-01997-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02058-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02058-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02058-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02058-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02058-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02058-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02058-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02058-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02074-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02074-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02074-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02074-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02074-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02074-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02099-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02099-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02099-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02099-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02115-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02115-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02115-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02115-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02115-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02123-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02123-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02123-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02123-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02123-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02123-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02123-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02167-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02167-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02167-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02167-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02186-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02186-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02186-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02186-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02186-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02186-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02186-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02186-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02223-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02223-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02223-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02223-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02230-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02230-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02230-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02230-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02230-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02255-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02255-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02255-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02255-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02259-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02259-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02259-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02259-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02285-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02285-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02285-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02285-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02285-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02285-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02338-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02338-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02338-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02338-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02468-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02468-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02468-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02468-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02504-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02504-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02504-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02504-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02504-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02528-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02528-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02528-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02528-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02528-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02528-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02528-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02528-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02539-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02539-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02539-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02539-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02539-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02539-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02539-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02539-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02650-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02650-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02650-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02650-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02650-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02650-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02650-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02650-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02652-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02652-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02652-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02652-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02652-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02652-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02665-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02665-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02665-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02665-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02665-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02665-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02665-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02697-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02697-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02697-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02697-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02697-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02697-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02697-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02741-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02741-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02741-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02741-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02741-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02741-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02741-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02771-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-02771-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02771-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-02771-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02771-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02771-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02771-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02841-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02841-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-02841-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02841-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02841-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-02841-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02869-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-02869-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-02869-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-02869-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-02869-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03034-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03034-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03034-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03034-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03034-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03034-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03034-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03074-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03074-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03074-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03074-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03074-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03074-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03074-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03172-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03172-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03172-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03172-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03172-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03174-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03174-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03174-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03174-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03174-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03174-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03174-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03174-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03188-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03188-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03188-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03188-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03196-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03196-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03196-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03196-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03196-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03196-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03196-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03196-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03319-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03319-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03319-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03319-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03319-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03319-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03319-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03319-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03404-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03404-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03404-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03404-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03404-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03404-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03442-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03442-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03442-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03442-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03442-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03467-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03467-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03467-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03467-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03467-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03467-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03467-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03467-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03479-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03479-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03479-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03479-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03479-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03483-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03483-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03483-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03483-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03483-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03483-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03483-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03483-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03496-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03496-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03496-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03496-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03496-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03496-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03496-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03496-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03540-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03540-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03540-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03540-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03540-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03540-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03549-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03549-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03549-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03549-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03549-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03549-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03549-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03549-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03596-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03596-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03596-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03596-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03596-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03653-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03653-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03653-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03653-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03653-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03656-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03656-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03656-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03656-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03656-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03656-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03656-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03674-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03674-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03674-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03674-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03674-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03674-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03674-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03674-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03682-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03682-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03682-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03682-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03682-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03682-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03682-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03686-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03686-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03686-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03686-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03805-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03805-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03805-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-03805-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03805-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03805-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03827-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03827-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03827-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03827-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03827-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03827-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03929-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-03929-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03929-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03929-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03946-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-03946-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-03946-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-03946-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-03946-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-03946-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-03946-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04037-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04037-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04037-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04037-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04037-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04057-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04057-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04057-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04057-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04057-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04076-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04076-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04076-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04076-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04076-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04210-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04210-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04210-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04210-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04210-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04210-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04224-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04224-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04224-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04224-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04224-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04224-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04236-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04236-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04236-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04236-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04236-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04299-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04299-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04299-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04299-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04299-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04299-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04299-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04299-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04328-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04328-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04328-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04328-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04328-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04328-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04328-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04328-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04395-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04395-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04395-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04395-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04395-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04395-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04395-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04433-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04433-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04433-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04433-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04433-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04433-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04442-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04442-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04442-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04442-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04442-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04442-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04442-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04494-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04494-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04494-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04494-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04494-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04494-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04504-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04504-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04504-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04504-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04504-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04556-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04556-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04556-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04556-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04556-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04556-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04556-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04563-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04563-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04563-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04563-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04563-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04563-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04563-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04569-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04569-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04569-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04569-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04569-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04569-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04569-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04631-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04631-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04631-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04631-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04638-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04638-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04638-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04638-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04638-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04638-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04638-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04715-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04715-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04715-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04715-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04715-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04770-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04770-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04770-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04770-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04770-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04770-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04770-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04770-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04788-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04788-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04788-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04788-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04810-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04810-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04810-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04810-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04810-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04828-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04828-Fasting Glucose,Error Type 6: Lab Result Outside Reference Range,"Fasting Glucose recorded far outside [70, 100] mg/dL"
+LAB_RESULTS,SUBJ-04828-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04828-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04828-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04828-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04828-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04845-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04845-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04845-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04845-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04956-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,SUBJ-04956-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04956-AST,Error Type 6: Lab Result Outside Reference Range,"AST recorded far outside [8, 48] U/L"
+LAB_RESULTS,SUBJ-04956-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04956-Total Cholesterol,Error Type 6: Lab Result Outside Reference Range,"Total Cholesterol recorded far outside [125, 200] mg/dL"
+LAB_RESULTS,SUBJ-04956-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04956-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04960-Platelet Count,Error Type 6: Lab Result Outside Reference Range,"Platelet Count recorded far outside [150, 450] 10^3/uL"
+LAB_RESULTS,SUBJ-04960-WBC Count,Error Type 6: Lab Result Outside Reference Range,"WBC Count recorded far outside [4.0, 11.0] 10^3/uL"
+LAB_RESULTS,SUBJ-04960-ALT,Error Type 6: Lab Result Outside Reference Range,"ALT recorded far outside [7, 56] U/L"
+LAB_RESULTS,SUBJ-04960-Creatinine,Error Type 6: Lab Result Outside Reference Range,"Creatinine recorded far outside [0.6, 1.3] mg/dL"
+LAB_RESULTS,SUBJ-04960-Hemoglobin,Error Type 6: Lab Result Outside Reference Range,"Hemoglobin recorded far outside [12.0, 17.5] g/dL"
+LAB_RESULTS,LAB-0037094,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0031861,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0048267,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0116286,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0158333,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0085730,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0200940,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0114831,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0012929,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0063805,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0075292,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0129810,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0082346,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0060443,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0083466,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0089159,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0126712,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0129066,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0204873,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0156139,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0130159,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0192649,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0182907,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0094738,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+LAB_RESULTS,LAB-0199471,Duplicate Check: Duplicate Lab Record,Lab result duplicated in source extract
+ADVERSE_EVENTS,AE-000003,Error Type 5: AE Date Before Randomization,Adverse event start date precedes subject randomization date
+ADVERSE_EVENTS,AE-000654,Error Type 8: Missing AE End Date,Serious AE missing required end date
+ADVERSE_EVENTS,AE-000804,Error Type 5: AE Date Before Randomization,Adverse event start date precedes subject randomization date
+ADVERSE_EVENTS,AE-001219,Error Type 5: AE Date Before Randomization,Adverse event start date precedes subject randomization date
+ADVERSE_EVENTS,AE-001251,Error Type 5: AE Date Before Randomization,Adverse event start date precedes subject randomization date
+ADVERSE_EVENTS,AE-001276,Error Type 5: AE Date Before Randomization,Adverse event start date precedes subject randomization date
+ADVERSE_EVENTS,AE-003593,Error Type 5: AE Date Before Randomization,Adverse event start date precedes subject randomization date
+ADVERSE_EVENTS,AE-004096,Error Type 5: AE Date Before Randomization,Adverse event start date precedes subject randomization date
+CONCOMITANT_MEDICATIONS,MED-000010,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-000030,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-000031,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-000032,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-000163,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-000164,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-000165,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-000737,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-000738,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-000739,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-000833,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-000959,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-001653,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-001715,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-001842,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-001909,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-001910,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-002113,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-002278,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-002279,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-003078,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-003079,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-003217,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-003218,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-003219,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+CONCOMITANT_MEDICATIONS,MED-003240,Error Type 9: Medication Date Inconsistent with Study Timeline,Medication start date recorded after study data cutoff
+PROTOCOL_DEVIATIONS,DEV-00052,Cross-form Check: Protocol Deviation Without Date,Protocol deviation record missing required deviation date
+PROTOCOL_DEVIATIONS,DEV-00088,Cross-form Check: Protocol Deviation Without Date,Protocol deviation record missing required deviation date
+PROTOCOL_DEVIATIONS,DEV-00105,Cross-form Check: Protocol Deviation Without Date,Protocol deviation record missing required deviation date
+PROTOCOL_DEVIATIONS,DEV-00133,Cross-form Check: Protocol Deviation Without Date,Protocol deviation record missing required deviation date
+PROTOCOL_DEVIATIONS,DEV-00138,Cross-form Check: Protocol Deviation Without Date,Protocol deviation record missing required deviation date
+PROTOCOL_DEVIATIONS,DEV-00260,Cross-form Check: Protocol Deviation Without Date,Protocol deviation record missing required deviation date
+PROTOCOL_DEVIATIONS,DEV-00266,Cross-form Check: Protocol Deviation Without Date,Protocol deviation record missing required deviation date
+PROTOCOL_DEVIATIONS,DEV-00336,Cross-form Check: Protocol Deviation Without Date,Protocol deviation record missing required deviation date

@@ -1,0 +1,29 @@
+RULE_ID,RULE_NAME,RULE_CATEGORY,SEVERITY,DESCRIPTION
+C01,Missing Required Subject Field,Completeness,Major,A required demographic field is null
+C02,Missing Visit Date on Completed Visit,Completeness,Major,Visit marked Completed but ACTUAL_DATE is null
+C03,Missing Lab Result Value,Completeness,Critical,Lab record present but RESULT_VALUE is null
+C04,Missing AE End Date (Serious),Completeness,Critical,Serious AE missing required END_DATE
+C05,Missing Protocol Deviation Date,Completeness,Major,Protocol deviation record missing DEVIATION_DATE
+V01,Invalid Sex Value,Validity,Major,"SEX not in {M, F}"
+V02,Invalid Treatment Arm,Validity,Critical,TREATMENT_ARM not in approved randomization list
+V03,Invalid Subject Status,Validity,Minor,SUBJECT_STATUS not in approved status list
+V04,Invalid Abnormal Flag,Validity,Minor,"ABNORMAL_FLAG not in {Y, N}"
+R01,Age Out of Plausible Range,Range Check,Critical,AGE not within 18-90 years
+R02,BMI Out of Plausible Range,Range Check,Major,BMI not within 12-60
+R03,Systolic BP Out of Range,Range Check,Major,SYSTOLIC_BP not within 80-220 mmHg
+R04,Diastolic BP Out of Range,Range Check,Major,DIASTOLIC_BP not within 40-140 mmHg
+R05,Heart Rate Out of Range,Range Check,Major,HEART_RATE not within 35-180 bpm
+R06,Temperature Out of Range,Range Check,Minor,TEMPERATURE not within 34.5-42.0 C
+R07,Lab Result Implausibly Outside Reference Range,Range Check,Major,"RESULT_VALUE more than 30% beyond [LOWER_LIMIT, UPPER_LIMIT] — likely data error"
+N01,Randomization Before Screening,Consistency,Critical,RANDOMIZATION_DATE earlier than SCREENING_DATE
+N02,Visit Outside Protocol Window,Consistency,Major,ACTUAL_DATE deviates from PLANNED_DATE by more than WINDOW_DAYS
+N03,AE Start Date Before Randomization,Consistency,Critical,AE START_DATE earlier than subject's RANDOMIZATION_DATE
+N04,Medication Date Inconsistent with Study Timeline,Consistency,Major,Medication START_DATE falls after the study data cutoff
+X01,AE Exists Without Randomization Data,Cross-form,Major,Subject has an AE record but no RANDOMIZATION_DATE
+X02,Medication Exists but Subject Not Randomized,Cross-form,Major,Concomitant medication recorded for an unrandomized subject
+X03,Protocol Deviation Without Date (Cross-check),Cross-form,Major,Deviation record present but DEVIATION_DATE missing (validated against source)
+X04,Lab Record Without Corresponding Visit,Cross-form,Critical,LAB_RESULTS.VISIT_ID does not exist in VISITS table
+D01,Duplicate Subject Record,Duplicate,Critical,SUBJECT_ID appears more than once in SUBJECTS
+D02,Duplicate Lab Record,Duplicate,Major,Identical SUBJECT_ID+VISIT_ID+LAB_TEST+RESULT_VALUE appears more than once
+D03,Duplicate AE Record,Duplicate,Minor,Identical SUBJECT_ID+AE_TERM+START_DATE appears more than once
+D04,Duplicate Visit Record,Duplicate,Minor,Identical SUBJECT_ID+VISIT_NAME appears more than once
